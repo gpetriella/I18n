@@ -3,7 +3,7 @@ module.trunks = Trunks
 trunks = Trunks
 trunks.advanced = Avanzato
 trunks.class_of_service_id = Permessi Chiamata
-trunks.class_of_service_id.tooltip = Class of services for trunk dial plan access.
+trunks.class_of_service_id.tooltip = Permessi di Chiamata per l'accesso al dial plan di linea.
 trunks.codecs = Codec Permessi
 trunks.codecs.tooltip = Elenco di codec consentiti. L'ordine in cui sono elencati i codec determina il loro ordine di preferenza. Se selezioni almeno un codec, verra' generato anche il parametro "disallow = all".
 trunks.custom_settings = Impostazioni Personalizzate
